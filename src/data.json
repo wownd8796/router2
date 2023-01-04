@@ -1,0 +1,6 @@
+{
+  "movies": [{ "photo": "../img/08.jpg", "name": "m-1" }, {}, {}],
+  "music": [{ "photo": "../img/08.jpg", "name": "mu-1" }, {}, {}],
+  "apps": [{ "photo": "../img/08.jpg", "name": "app-1" }, {}, {}],
+  "software": [{ "photo": "../img/08.jpg", "name": "s-1" }, {}, {}]
+}
